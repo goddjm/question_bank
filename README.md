@@ -5,6 +5,6 @@
 
 * 문제를 직접 생성, 변경, 삭제, 출력 할 수 있습니다.
 
-* 'JAVA'와 'Springboot'을 중점으로  MySql, html, bootstrap, thymeleaf 등을 개발도구로 활용하였습니다. 
+* 'JAVA'와 'Springboot'를 중점으로  MySql, html, bootstrap, thymeleaf 등을 개발도구로 활용하였습니다. 
 
 ```
